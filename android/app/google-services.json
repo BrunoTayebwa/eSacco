@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "620400952416",
+    "project_id": "kibiina",
+    "storage_bucket": "kibiina.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620400952416:android:afa738377774a1ec422f05",
+        "android_client_info": {
+          "package_name": "com.recess.eSacco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620400952416-sv1cv8qapi1svec21pmh7k76akn3g8ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.recess.eSacco",
+            "certificate_hash": "db8aac6846c7f55ad1b5c8e39cc02fb6b3bbcf5f"
+          }
+        },
+        {
+          "client_id": "620400952416-sl72dkihrfol7dcgedb7d0g4lsjtk22f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGr1Xo0YZecTR17MMKOWhO8H4SyU3nPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620400952416-sl72dkihrfol7dcgedb7d0g4lsjtk22f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
