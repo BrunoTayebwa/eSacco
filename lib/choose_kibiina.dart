@@ -6,6 +6,7 @@ class ChooseKibiina extends StatefulWidget {
 }
 
 class _ChooseKibiinaState extends State<ChooseKibiina> {
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -20,7 +21,7 @@ class _ChooseKibiinaState extends State<ChooseKibiina> {
             child: Text(
               'Choose Group under construction',
               style: TextStyle(
-                fontSize: 40,
+                fontSize: 38,
                 color: Colors.grey[800],
                 fontStyle: FontStyle.italic,
                 fontWeight: FontWeight.bold,
